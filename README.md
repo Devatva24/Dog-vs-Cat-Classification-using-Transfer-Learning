@@ -45,14 +45,14 @@
 <h3>3. Training</h3>
 <ul>
   <li>Optimizer: Adam</li>
-  <li>Loss: Binary Crossentropy</li>
+  <li>Loss: Sparse Categorical Crossentropy</li>
   <li>Metrics: Accuracy</li>
-  <li>Trained for 5–10 epochs with fine-tuning of top layers</li>
+  <li>Trained for 5 epochs with fine-tuning of top layers</li>
 </ul>
 
 <h3>4. Evaluation</h3>
 <ul>
-  <li>Validation Accuracy: ~95%+</li>
+  <li>Validation Accuracy: ~98.75%+</li>
   <li>Confusion matrix and classification report for detailed metrics</li>
 </ul>
 
