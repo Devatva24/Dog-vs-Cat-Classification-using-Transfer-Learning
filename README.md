@@ -52,7 +52,7 @@
 
 <h3>4. Evaluation</h3>
 <ul>
-  <li>Validation Accuracy: ~98.75%+</li>
+  <li>Validation Accuracy: ~98.75%</li>
   <li>Confusion matrix and classification report for detailed metrics</li>
 </ul>
 
